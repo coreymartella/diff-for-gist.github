@@ -2,7 +2,7 @@
 // @name           Diff for gist.github
 // @description    adds a diff function to http://gist.github.com/
 // @namespace      http://userscripts.org/users/40991
-// @include        https://gist.github.com/*
+// @include        https://gist.*/*, http://gist.*/*
 // @require        https://raw.github.com/gist/105908/diff.js
 // ==/UserScript==
 
